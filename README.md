@@ -1,14 +1,10 @@
-# SRDP
-> Sistema de Relato e Denúncias de Phishing
+# SRDP - Sistema de Relato e Denúncia de Phishing
 
-Aplicativo que suporta a entrada [phishing_abp](https://raw.githubusercontent.com/Jetrom17/list_phishing/main/phishing_abp.txt)
-```bash
-https://raw.githubusercontent.com/Jetrom17/list_phishing/main/phishing_br.txt
-```
-é:
-https://www.zenz-solutions.de/personaldnsfilter-wp/
-> Android
-> Mas você pode usar no seu firewall, ou em algum filtro que aceite tipos de arquivo:
+O SRDP (Sistema de Relato e Denúncia de Phishing) foi concebido com o propósito de unificar diversos domínios caracterizados como phishing e similares. Embora existam numerosos filtros disponíveis, muitos deles são de origem estrangeira. Com esse contexto em mente, este projeto é apresentado, baseado na referência https://oisd.nl/, com o intuito de combater sites fraudulentos por meio de filtragem de hosts. A abordagem proposta se assemelha a um firewall integrado ou configurável no sistema do usuário, exemplificado pelo PersonalDNSFilter, o qual atua como intermediário entre a conexão do usuário e a rede através de um túnel VPN (Virtual Private Network). Para a implementação deste aplicativo, é recomendado utilizar o conjunto de hosts padrão disponível em https://github.com/Jetrom17/list_phishing/raw/main/phishing_br.txt.
+
+> A inclusão de coringas, como *.ticketsmastter.com, implica que nenhum subdomínio será processado, garantindo o bloqueio do host e prevenindo que o usuário acesse um site malicioso.
+
+Tipos de arquivo:
 
 - ABP
 - DNSMASQ
@@ -32,9 +28,10 @@ Segue o modelo para contribuição deste projeto. Cada url é de origem brasilei
 
 HOST
 [...]
+
+HOST = São domínios, como "facebook.com", "youtube.com" etc.
 ```
-> HOST = São domínios, como "facebook.com", "youtube.com" etc.
- 
+
 Para melhorar ainda mais, caso tenhas 10 domínios, coloque em um arquivo ".txt" e execute o código python(3):
 
 ```py
