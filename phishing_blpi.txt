@@ -1,12 +1,12 @@
-[SRDP = Sistema de Relato e Denúncia de Phishing]
+# [SRDP = Sistema de Relato e Denúncia de Phishing]
 
-! Version: 1.0
-! Title: Phishing_blpi
-! Description: simple dns plus blpi  (plug-in)
-! Date: 16/05/2024.
-! Maintainer: Jeiel Lima Miranda.
-! Homepage: https://github.com/Jetrom17/list_phishing
-! Contact: gwdqa2xx@duck.com
+# Version: 1.0
+# Title: Phishing_blpi
+# Description: simple dns plus blpi  (plug-in)
+# Date: 16/05/2024.
+# Maintainer: Jeiel Lima Miranda.
+# Homepage: https://github.com/Jetrom17/list_phishing
+# Contact: gwdqa2xx@duck.com
 
 E mercadolivre.com
 E ativebptokenpara.com
