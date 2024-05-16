@@ -1,3 +1,13 @@
+[SRDP = Sistema de Relato e Denúncia de Phishing]
+
+! Version: 1.0
+! Title: Phishing_unbound.
+! Description: Não consolidado.
+! Date: 16/05/2024.
+! Maintainer: Jeiel Lima Miranda.
+! Homepage: https://github.com/Jetrom17/list_phishing
+! Contact: gwdqa2xx@duck.com
+
 local-zone: "0--mercadolivre.com." always_null
 local-zone: "0--ativebptokenpara.com." always_null
 local-zone: "0--ajudeoproximo.site." always_null
