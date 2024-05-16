@@ -1,7 +1,7 @@
 [SRDP = Sistema de Relato e Denúncia de Phishing]
 
 ! Version: 1.0
-! Title: Phishing_br
+! Title: Phishing_abp
 ! Description: Lista padrão. Encontrado na internet.
 ! Date created: 15/05/2024.
 ! List update: 16/05/2024.
@@ -19,4 +19,4 @@
 ||ticketsmastter.com^
 ||bptoken.login-br-digital.com^
 ||questionario-mercadolivre.com^
-*.squarecloud.app
+||discloudbot.com^
