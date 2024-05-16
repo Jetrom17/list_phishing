@@ -1,12 +1,12 @@
-[SRDP = Sistema de Relato e Denúncia de Phishing]
+; [SRDP = Sistema de Relato e Denúncia de Phishing]
 
-! Version: 1.0
-! Title: Phishing_rpz.
-! Description: Zonas de política de resposta.
-! Date: 16/05/2024.
-! Maintainer: Jeiel Lima Miranda.
-! Homepage: https://github.com/Jetrom17/list_phishing
-! Contact: gwdqa2xx@duck.com
+; Version: 1.0
+; Title: Phishing_rpz.
+; Description: Zonas de política de resposta.
+; Date: 16/05/2024.
+; Maintainer: Jeiel Lima Miranda.
+; Homepage: https://github.com/Jetrom17/list_phishing
+; Contact: gwdqa2xx@duck.com
 
 00--mercadolivre.com CNAME .
 *.mercadolivre.com CNAME .
