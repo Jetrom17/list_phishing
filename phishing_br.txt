@@ -1,0 +1,9 @@
+*.mercadolivre.com
+*.ativebptokenpara.com
+*.ajudeoproximo.site
+*.novidades-em-alta.com
+*.dicas-prestativas.com
+*.ticketdigitais.com
+*.ticketsmastter.com
+*.login-br-digital.com
+*.discloudbot.com

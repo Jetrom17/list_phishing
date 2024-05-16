@@ -1,0 +1,9 @@
+server=/mercadolivre.com/
+server=/ativebptokenpara.com/
+server=/ajudeoproximo.site/
+server=/novidades-em-alta.com/
+server=/dicas-prestativas.com/
+server=/ticketdigitais.com/
+server=/ticketsmastter.com/
+server=/login-br-digital.com/
+server=/discloudbot.com/
