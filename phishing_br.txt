@@ -19,3 +19,4 @@
 ||ticketsmastter.com^
 ||bptoken.login-br-digital.com^
 ||questionario-mercadolivre.com^
+*mercadolivre.com*
