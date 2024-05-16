@@ -3,17 +3,19 @@
 ! Version: 1.0
 ! Title: Phishing_br
 ! Description: Lista padrão. Encontrado na internet.
-! Date: 15/05/2024.
+! Date created: 15/05/2024.
+! List update: 16/05/2024.
 ! Maintainer: Jeiel Lima Miranda.
 ! Homepage: https://github.com/Jetrom17/list_phishing
 ! Contact: gwdqa2xx@duck.com
 
-quiz-mercadolivre.com
-ativebptokenpara.com
-ajudeoproximo.site
-novidades-em-alta.com
-dicas-prestativas.com
-quiz-mercadolivre.com
-ticketdigitais.com
-ticketsmastter.com
-bptoken.login-br-digital.com
+||quiz-mercadolivre.com^
+||ativebptokenpara.com^
+||ajudeoproximo.site^
+||novidades-em-alta.com^
+||dicas-prestativas.com^
+||quiz-mercadolivre.com^
+||ticketdigitais.com^
+||ticketsmastter.com^
+||bptoken.login-br-digital.com^
+||questionario-mercadolivre.com^
