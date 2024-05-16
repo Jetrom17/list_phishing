@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/Jetrom17/list_phishing/main/phishing_br.txt
 é:
 https://www.zenz-solutions.de/personaldnsfilter-wp/
 > Android
-Mas você pode usar no seu firewall, ou em algum filtro que aceite tipos de arquivo:
+> Mas você pode usar no seu firewall, ou em algum filtro que aceite tipos de arquivo:
 
 - ABP
 - DNSMASQ
