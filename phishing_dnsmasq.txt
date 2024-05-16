@@ -1,3 +1,13 @@
+[SRDP = Sistema de Relato e Denúncia de Phishing]
+
+! Version: 1.0.
+! Title: Phishing_dnsmasq.
+! Description: Lista para dnsmasq.
+! Date: 15/05/2024.
+! Maintainer: Jeiel Lima Miranda.
+! Homepage: https://github.com/Jetrom17/list_phishing
+! Contact: gwdqa2xx@duck.com
+
 server=/mercadolivre.com/
 server=/ativebptokenpara.com/
 server=/ajudeoproximo.site/
