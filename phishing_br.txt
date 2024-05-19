@@ -16,4 +16,3 @@
 *.ticketdigitais.com
 *.ticketsmastter.com
 *.login-br-digital.com
-*.discloudbot.com
