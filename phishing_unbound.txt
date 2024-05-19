@@ -16,4 +16,3 @@ local-zone: "0--dicas-prestativas.com." always_null
 local-zone: "0--ticketdigitais.com." always_null
 local-zone: "0--ticketsmastter.com." always_null
 local-zone: "0--login-br-digital.com." always_null
-local-zone: "0--discloudbot.com." always_null
