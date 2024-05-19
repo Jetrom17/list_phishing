@@ -24,5 +24,3 @@
 *.ticketsmastter.com CNAME .
 00--login-br-digital.com CNAME .
 *.login-br-digital.com CNAME .
-00--discloudbot.com CNAME .
-*.discloudbot.com CNAME .
